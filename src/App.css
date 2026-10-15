@@ -1,0 +1,10 @@
+div{
+  background-image: i;
+}
+.hero-background {
+  background-image: url('./assets/myImage.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
